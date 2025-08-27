@@ -17,7 +17,7 @@ The Step & Health Tracker Dashboard is a comprehensive Power BI project designed
   • Mood (Happy, Energetic, Sad, Tired, Stressed)<br>
   • Date, Weekday, Month<br>
 
-##🔍 Recommended Analysis
+## 🔍 Recommended Analysis
 • How do activity levels vary across weekdays and months?<br>
 ✅ Steps peak mid-week, dip on weekends.<br>
 • What role does hydration play in daily performance?<br>
@@ -36,7 +36,7 @@ The Step & Health Tracker Dashboard is a comprehensive Power BI project designed
 
 ![Dashboard 3](https://github.com/user-attachments/assets/6139c637-4d15-4618-9f1f-66e314142e43)
 
-##📌 Key Performance Indicators (KPIs)
+## 📌 Key Performance Indicators (KPIs)
 ⦁ Total Steps Walked: 5M<br>
 ⦁ Average Daily Steps: 10.24K<br>
 ⦁ Average Sleep Hours: 7.29hrs<br>
@@ -46,7 +46,7 @@ The Step & Health Tracker Dashboard is a comprehensive Power BI project designed
 ⦁ Longest Streak : 264<br>
 ⦁ Days Missed Step Goal : 143<br>
 
-##💡 Key Insights from the Dashboard
+## 💡 Key Insights from the Dashboard
 • Steps & Activity – Average daily steps show mid-week peaks, while weekends tend to drop. Around 65% of days achieved the step goal.<br>
 • Sleep Patterns – Consistent sleep improves activity; shorter nights correlate with reduced step counts.<br>
 • Hydration – Higher water intake is linked to better step performance and longer sleep duration.<br>
@@ -60,7 +60,7 @@ The Step & Health Tracker Dashboard is a comprehensive Power BI project designed
 • Custom Icons and Layout – Enhanced visual appeal<br>
 • Slicers & Page Navigation – Seamless interactivity<br>
 
-##🎯 Conclusion 
+## 🎯 Conclusion
 This dashboard project demonstrates the power of self-tracking + data storytelling. By analyzing steps, sleep, hydration, and mood, it highlights how daily behaviors influence overall well-being. The insights help create actionable goals for improving lifestyle balance.
 
 
